@@ -6,7 +6,7 @@ You can use the [editor on GitHub](https://github.com/td-iceman/Tarandeep-Projec
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 {% endcomment %}
 
-### Neural Network from scratch (no ML library used)
+###1. Neural Network from scratch (no ML library used)
 
 First serious ML project for understanding neural network inner workings and learning to implement in python. Used this to test the _hello world_ problem of neural networks classification, recognizing hand-written digits from the MNIST database. Following are the highlights from the project:
 
