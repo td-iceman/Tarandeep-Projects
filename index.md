@@ -6,9 +6,13 @@ You can use the [editor on GitHub](https://github.com/td-iceman/Tarandeep-Projec
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 {% endcomment %}
 
-### Markdown
+### Neural Network from scratch (no ML library used)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First serious ML project for understanding neural network inner workings and learning to implement in python. Used this to test the _hello world_ problem of neural networks classification, recognizing hand-written digits from the MNIST database. Following are the highlights from the project:
+
+- Implemented _Layer_ class in python for _activation_ and _backpropogation_.
+- Icorporated _Adam optimzer_ to the _backpropogation_ update procedure.
+- Results of the code showed comparable accuracy on test data using a _Tensorflow_ model of same architecture.
 
 ```markdown
 Syntax highlighted code block
