@@ -11,7 +11,8 @@ Hands-on ML project for understanding neural network inner workings and learning
 
 ![mnist](/Tarandeep-Projects/images/MNIST_digit.jpg)
 
-<br />
+<br />\
+
 ### Heart Disease prediction - Kaggle dataset     &emsp; [github]()
 
 Took open data for heart patients from Kaggle datasets and trained various decision tree-based classification models. Also used SHAP model explainer to the best model to develop data insights for prediction.
