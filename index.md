@@ -16,6 +16,10 @@ Hands-on ML project for understanding neural network inner workings and learning
 - Results showed comparable accuracy on test data to that using a _Tensorflow_ model of same architecture.
 - - 15 neuron hidden layer netwrok classified 89% digits correctly (tensorflow: 92%)
 
+```
+![Image](Tarandeep_projects/MNIST_digit.jpg)
+```
+
 ```markdown
 Syntax highlighted code block
 
