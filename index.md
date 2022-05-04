@@ -1,6 +1,6 @@
 ## Data and Machine Learning Projects
 
-### Neural Network from scratch    &emsp; [github]()
+### Neural Network from scratch    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/NN_from_scratch.ipynb)
 
 Hands-on ML project for understanding neural network inner workings and learning to implement in python. Used this to test the _hello world_ problem of neural networks classification, recognizing hand-written digits from the MNIST database. Following are the highlights from the project:
 
@@ -10,5 +10,5 @@ Hands-on ML project for understanding neural network inner workings and learning
 - 15 neuron hidden layer network classified 90 % digits correctly (tensorflow: 94 %)
 
 ```
-![mnist](/MNIST_digit.jpg)
+![mnist](/gh-pages/MNIST_digit.jpg)
 ```
