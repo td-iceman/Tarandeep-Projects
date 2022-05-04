@@ -11,7 +11,7 @@ Hands-on ML project for understanding neural network inner workings and learning
 
 ![mnist](/Tarandeep-Projects/images/MNIST_digit.jpg)
 
-<br />\
+<br />
 
 ### Heart Disease prediction - Kaggle dataset     &emsp; [github]()
 
