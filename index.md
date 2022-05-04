@@ -6,14 +6,15 @@ You can use the [editor on GitHub](https://github.com/td-iceman/Tarandeep-Projec
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 {% endcomment %}
 
-### Neural Network from scratch -- no ML library
+### Neural Network from scratch    [github]()
 
-First serious ML project for understanding neural network inner workings and learning to implement in python. Used this to test the _hello world_ problem of neural networks classification, recognizing hand-written digits from the MNIST database. Following are the highlights from the project:
+Hands-on ML project for understanding neural network inner workings and learning to implement in python. Used this to test the _hello world_ problem of neural networks classification, recognizing hand-written digits from the MNIST database. Following are the highlights from the project:
 
 - Implemented _Layer_ class in python for _activation_ and _backpropogation_.
-- Icorporated _Adam optimzer_ to the _backpropogation_ update procedure.
-- Used _mean square error_ as cost function and _mini-batch_ training method.
+- Incorporated _Adam optimizer_ to the _backpropogation_ update procedure.
+- Used _sigmoid_ as activation function, _mean square error_ as cost function and _mini-batch_ training method.
 - Results showed comparable accuracy on test data to that using a _Tensorflow_ model of same architecture.
+- - 15 neuron hidden layer netwrok classified 89% digits correctly (tensorflow: 92%)
 
 ```markdown
 Syntax highlighted code block
