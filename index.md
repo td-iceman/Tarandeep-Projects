@@ -10,5 +10,5 @@ Hands-on ML project for understanding neural network inner workings and learning
 - 15 neuron hidden layer network classified 90 % digits correctly (tensorflow: 94 %)
 
 ```
-![mnist](/gh-pages/MNIST_digit.jpg)
+![mnist](/Tarandeep-Projects/MNIST_digit.jpg)
 ```
