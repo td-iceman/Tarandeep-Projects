@@ -9,6 +9,5 @@ Hands-on ML project for understanding neural network inner workings and learning
 - Used _sigmoid_ as activation function, _mean square error_ as cost function and _mini-batch_ training method.
 - 15 neuron hidden layer network classified 90 % digits correctly (tensorflow: 94 %)
 
-```
-![mnist](https://github.com/td-iceman/Tarandeep-Projects/blob/6b9d8b24a0b3e336cfa5a05d522b9a0c5c82bfd2/MNIST_digit.jpg)
-```
+![mnist](/Tarandeep-Projects/MNIST_digit.jpg)
+
