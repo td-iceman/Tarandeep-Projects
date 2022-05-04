@@ -9,7 +9,7 @@ Hands-on ML project for understanding neural network inner workings and learning
 - Used _sigmoid_ as activation function, _mean square error_ as cost function and _mini-batch_ training method.
 - 15 neuron hidden layer network classified 90 % digits correctly (tensorflow: 94 %)
 
-![mnist](/Tarandeep-Projects/MNIST_digit.jpg)
+![mnist](/Tarandeep-Projects/images/MNIST_digit.jpg)
 
 \
 ### Heart Disease prediction - Kaggle dataset     &emsp; [github]()
