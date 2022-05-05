@@ -17,4 +17,4 @@ Hands-on ML project for understanding neural network inner workings and learning
 Used open dataset for heart patients from Kaggle datasets and trained various decision tree-based classification models. Also used SHAP model explainer to the best model to develop data insights for prediction. Highlights of the project are:
 
 - Cleaned and explored data, creating dummy attributes. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/Heart_Disease_data_processing.ipynb)
-
+- Applied Decision Tree and Random Forest models to predict heart disease. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/2_Heart_Disease_decision_tree_random_forest.ipynb)
