@@ -12,7 +12,9 @@ Hands-on ML project for understanding neural network inner workings and learning
 
 <br />
 
-### Heart Disease prediction - Kaggle dataset     &emsp; [github]()
+### Heart Disease prediction - Kaggle dataset     &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/tree/main/Heart%20Disease%20Prediction)
 
-Took open data for heart patients from Kaggle datasets and trained various decision tree-based classification models. Also used SHAP model explainer to the best model to develop data insights for prediction.
-###### coming soon
+Used open dataset for heart patients from Kaggle datasets and trained various decision tree-based classification models. Also used SHAP model explainer to the best model to develop data insights for prediction. Highlights of the project are:
+
+- Cleaned and explored data, creating dummy attributes.  | [code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/Heart_Disease_data_processing.ipynb)
+
