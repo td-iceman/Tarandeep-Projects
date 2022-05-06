@@ -2,10 +2,10 @@
 
 ### Neural Network from scratch    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Neural%20Network%20from%20scratch/NN_from_scratch.ipynb)
 
-Hands-on ML project for understanding neural network inner workings and learning to implement in python. Used this to test the _hello world_ problem of neural networks classification, recognizing hand-written digits from the MNIST database. Following are the highlights from the project:
+Hands-on ML project for understanding neural network inner workings and learning to implement in python. Used this to test the *hello world* problem of neural networks classification, recognizing hand-written digits from the MNIST database. Following are the highlights from the project:
 
-- Implemented _Layer_ class in python for _activation_ and _backpropogation_.
-- Incorporated _Adam optimizer_, _sigmoid_ activation function, _mean square error_ cost function and _mini-batch_ training method.
+- Implemented *Layer* class in python for *activation* and *backpropogation*.
+- Incorporated *Adam optimizer*, *sigmoid* activation function, *mean square error* cost function and *mini-batch* training method.
 - 15 neuron hidden layer network classified 90 % digits correctly (tensorflow: 94 %)
 
 ![mnist](/Tarandeep-Projects/images/MNIST_digit.jpg)
@@ -17,5 +17,5 @@ Hands-on ML project for understanding neural network inner workings and learning
 Used open dataset for heart patients from Kaggle datasets and trained various decision tree-based classification models. Also used SHAP model explainer to the best model to develop data insights for prediction. Highlights of the project are:
 
 - Cleaned and explored data, creating dummy attributes. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/Heart_Disease_data_processing.ipynb)
-- Applied Decision Tree and Random Forest models for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/2_Heart_Disease_decision_tree_random_forest.ipynb)
-- Applied Gradient Boost model for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/3_Heart_Disease_gradient_boost.ipynb)
+- Applied *Decision Tree* and *Random Forest* models for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/2_Heart_Disease_decision_tree_random_forest.ipynb)
+- Applied *Gradient Boost* model for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/3_Heart_Disease_gradient_boost.ipynb)
