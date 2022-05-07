@@ -21,13 +21,13 @@ Used open dataset for heart patients from Kaggle datasets and trained various de
 - Applied *Gradient Boost* model for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/3_Heart_Disease_gradient_boost.ipynb)
 - Applied *XGBoost* model for prediction and *SHAP* for model explanation. &emsp;[code]()
 
-Mdoel Comparison:
-| Model | Train score | Test score | CV score | CV std |
-| --- | --- | --- | --- | --- |
-| **Decision Tree** | 96 % | 82.6 % | 82.5 % | 7.9 % |
-| **Random Forest (tuned)** | 94.4 % | 85.7 % | 86.8 % | 6.5 % |
-| **Gradient Boost (tuned)** | 100 % | 85.7 % | 87.4 % | 6.1 % |
-| **XGBoost (optimized)** | 99.2 % | 88 % | 88 % | 6.8 %|
+Model performance comparison:
+ Model | Train score | Test score | CV score | CV std 
+ --- | --- | --- | --- | --- 
+ **Decision Tree** | 96 % | 82.6 % | 82.5 % | 7.9 % 
+ **Random Forest (tuned)** | 94.4 % | 85.7 % | 86.8 % | 6.5 % 
+ **Gradient Boost (tuned)** | 100 % | 85.7 % | 87.4 % | 6.1 % 
+ **XGBoost (optimized)** | 99.2 % | 88 % | 88 % | 6.8 % 
 
 Highlights of *XGBoost* model explanation and analysis:
 - Found out that attritbute data imbalance (sex: *female* and target outcome within that set) was wrongly employed by model as an important prediction feature.
