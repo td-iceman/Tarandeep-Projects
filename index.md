@@ -27,7 +27,7 @@ Mdoel Comparison:
 | **Decision Tree** | 96 % | 82.6 % | 82.5 % | 7.9 % |
 | **Random Forest (tuned)** | 94.4 % | 85.7 % | 86.8 % | 6.5 % |
 | **Gradient Boost (tuned)** | 100 % | 85.7 % | 87.4 % | 6.1 % |
-| **XGBoost (optim)** | 99.2 % | 88 % | 88 % | 6.8 %|
+| **XGBoost (optimized)** | 99.2 % | 88 % | 88 % | 6.8 %|
 
 Highlights of *XGBoost* model explaination and analysis:
 - Found out that attritbute data imbalance (sex: *female* and target outcome within that set) was wrongly employed by model as an important prediction feature.
