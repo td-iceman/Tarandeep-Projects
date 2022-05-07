@@ -31,7 +31,7 @@ Model performance comparison:
 | **XGBoost (optimized)** | 99.2 % | 88 % | 88 % | 6.8 % |
 
 Highlights of *XGBoost* model explanation and analysis:
-- Found out that attritbute data imbalance (sex: *female* and target outcome within that set) was wrongly employed by model as an important prediction feature.
+- Found out that attribute data imbalance (sex: *female* and target outcome within that set) was wrongly employed by model as an important prediction feature.
 - Observed candidates for feature selection/reduction for model simplification.
 - Obesrved few features and trends of their impact on outcome. 
 
