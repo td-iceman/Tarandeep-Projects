@@ -29,7 +29,7 @@ Mdoel Comparison:
 | **Gradient Boost (tuned)** | 100 % | 85.7 % | 87.4 % | 6.1 % |
 | **XGBoost (optimized)** | 99.2 % | 88 % | 88 % | 6.8 %|
 
-Highlights of *XGBoost* model explaination and analysis:
+Highlights of *XGBoost* model explanation and analysis:
 - Found out that attritbute data imbalance (sex: *female* and target outcome within that set) was wrongly employed by model as an important prediction feature.
 - Observed candidates for feature selection/reduction for model simplification.
 - Obesrved few features and trends of their impact on outcome. 
