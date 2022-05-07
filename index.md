@@ -19,7 +19,7 @@ Used open dataset for heart patients from Kaggle datasets and trained various de
 - Cleaned and explored data, creating dummy attributes. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/Heart_Disease_data_processing.ipynb)
 - Applied *Decision Tree* and *Random Forest* models for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/2_Heart_Disease_decision_tree_random_forest.ipynb)
 - Applied *Gradient Boost* model for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/3_Heart_Disease_gradient_boost.ipynb)
-- Applied *XGBoost* model for prediction and *SHAP* for model explanation. &emsp;[code]()
+- Applied *XGBoost* model for prediction and *SHAP* for model explanation. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/4_Heart_Disease_xgboost.ipynb)
 
 Model performance comparison:
 
