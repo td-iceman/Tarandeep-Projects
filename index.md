@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-229364959-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-229364959-1');
+</script>
+
+
 ## Data and Machine Learning Projects
 
 ### Neural Network from scratch    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Neural%20Network%20from%20scratch/NN_from_scratch.ipynb)
