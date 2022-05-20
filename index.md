@@ -1,3 +1,14 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-229364959-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-229364959-1');
+</script>
+
+
 ## Data and Machine Learning Projects
 
 ### Neural Network from scratch    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Neural%20Network%20from%20scratch/NN_from_scratch.ipynb)
@@ -14,7 +25,7 @@ Hands-on ML project for understanding neural network inner workings and learning
 
 ### Heart Disease prediction - Kaggle dataset     &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/tree/main/Heart%20Disease%20Prediction)
 
-Used open dataset for heart patients from Kaggle datasets and trained various decision tree-based classification models. Also used SHAP model explainer to the best model to develop data insights for prediction. Highlights of the project are:
+Used open dataset for heart patients from Kaggle datasets and trained various decision tree-based classification models. Also used SHAP model explainer to the best model to develop data insights for prediction. Project summary:
 
 - Cleaned and explored data, creating dummy attributes. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/1_Heart_Disease_data_processing.ipynb)
 - Applied *Decision Tree* and *Random Forest* models for prediction. &emsp;[code](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Heart%20Disease%20Prediction/2_Heart_Disease_decision_tree_random_forest.ipynb)
