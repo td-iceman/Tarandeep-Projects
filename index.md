@@ -50,6 +50,7 @@ Highlights of *XGBoost* model explanation and analysis:
 
 
 <br />
+
 ### ETL - Spotify top genre songs audio features     &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Spotify%20ETL%20and%20ML/1_Data_ETL_pipeline.ipynb)
 
 Created an ETL process for extracting top songs of top artists of a list of genres on *Spotify*. Highlights are as follows:
