@@ -47,3 +47,11 @@ Highlights of *XGBoost* model explanation and analysis:
 - Obesrved few features and trends of their impact on outcome. 
 
 ![shap](/Tarandeep-Projects/images/shap.jpg)
+
+
+<br />
+### ETL - Spotify top genre songs audio features     &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Spotify%20ETL%20and%20ML/1_Data_ETL_pipeline.ipynb)
+
+Created an ETL process for extracting top songs of top artists of a list of genres on *Spotify*. Highlights are as follows:
+- Used *Spotify API* using *Client Credentials Authorization Flow* to extract genre, artist and audio features data for over 2000 songs.
+- Created a *MySQL* database for loading validated data from the process, ready for use for analytics and modelling.
