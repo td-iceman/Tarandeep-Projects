@@ -23,7 +23,9 @@ Hands-on ML project for understanding neural network inner workings and learning
 
 ### Convolutional NN using Tensorflow Functional API    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Tensorflow/CNN%20using%20Functional%20API/mnist_tf_keras_CNN.ipynb)
 
-Trained and tested a *Tensorflow* Functional API CNN on the MNIST handwritten data. Also created training dataset in a pipeline format using the *Tensorflow* data.Dataset API for efficient data input. 
+Trained and tested a *Tensorflow* Functional API CNN on the MNIST handwritten data. Also created training dataset in a pipeline format using the *Tensorflow* data.Dataset API for efficient data input.
+
+
 <br />
 
 ### Heart Disease prediction - Kaggle dataset     &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/tree/main/Heart%20Disease%20Prediction)
