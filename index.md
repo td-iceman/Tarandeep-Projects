@@ -21,7 +21,7 @@ Hands-on ML project for understanding neural network inner workings and learning
 
 ![mnist](/Tarandeep-Projects/images/MNIST_digit.jpg)
 
-### Convolutional NN using Tensorflow Functional API    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Neural%20Network%20from%20scratch/NN_from_scratch.ipynb](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Tensorflow/CNN%20using%20Functional%20API/mnist_tf_keras_CNN.ipynb)
+### Convolutional NN using Tensorflow Functional API    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Tensorflow/CNN%20using%20Functional%20API/mnist_tf_keras_CNN.ipynb](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Tensorflow/CNN%20using%20Functional%20API/mnist_tf_keras_CNN.ipynb)
 
 Trained and tested a *Tensorflow* Functional API CNN on the MNIST handwritten data. Also created training dataset in a pipeline format using the *Tensorflow* data.Dataset API for efficient data input. 
 <br />
