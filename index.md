@@ -21,9 +21,10 @@ Hands-on ML project for understanding neural network inner workings and learning
 
 ![mnist](/Tarandeep-Projects/images/MNIST_digit.jpg)
 
-### Convolutional NN using Tensorflow Functional API    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/blob/main/Tensorflow/CNN%20using%20Functional%20API/mnist_tf_keras_CNN.ipynb)
+### Deep Learning - Tensorflow    &emsp; [github](https://github.com/td-iceman/Tarandeep-Projects/tree/main/Tensorflow)
 
-Trained and tested a *Tensorflow* Functional API CNN on the MNIST handwritten data. Also created training dataset in a pipeline format using the *Tensorflow* data.Dataset API for efficient data input.
+- Trained and tested a *Tensorflow keras* Functional API Convolutional Neural Networks on the MNIST handwritten data and CIFAR-10 image dataset recognintion task.
+- Created training dataset in a pipeline format using the *Tensorflow* data.Dataset API for efficient data input.
 
 
 <br />
